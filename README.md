@@ -16,7 +16,8 @@ If you don't have Python installed, download and install it from the official we
 - [Direct Python 3.13 download link](https://www.python.org/ftp/python/3.12.8/python-3.12.8-amd64.exe) (note: this is the windows edition)
 
 Make sure to add Python to your system's PATH during installation.
-![alt text](image.png)
+
+![Image showing "Add Python 3.7 to PATH" as checked](image.png)
 
 ### 2. Clone or Download the Repository
 
@@ -31,5 +32,6 @@ pip install -r requirements.txt
 
 ### 4. Run the scripts
 
-You can now run `start.py` to run a minimal no-interface way to open the different files. (Run the file by right clicking the file, clicking `open width` and selecting `python`)
-Or you can run the `start_GUI.py` to open a window where you can click instead xdd 
+You can now run `start.py` to run a minimal no-interface way to open the different files.
+Or you can run the `start_GUI.py` to open a window where you get a minimal UI instead.
+You can run python files by right clicking the file, clicking `open width` and selecting `python`
